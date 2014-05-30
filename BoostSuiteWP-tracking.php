@@ -3,14 +3,12 @@
    Plugin Name: BoostSuite Tracking
    Plugin URI: http://boostsuite.com
    Description: This plugin will insert the BoostSuite tracking code on all non-admin pages.
-   Version: 1.0
+   Version: 1.2
    Author: BoostSuite
    Author URI: http://boostsuite.com
    */
 
-   // MA_TODO: include light weight ajax library
-
-  function boostsuitewp_tracking() { 
+  function boostsuitewp_tracking() {
     ?>
 
     <script type="text/javascript">
@@ -18,6 +16,7 @@
      * Boostsuite Tracker JS widget
      * @version 0.3
     */
+
     (function(){
         /**
          * Boost
@@ -181,6 +180,7 @@
             document.getElementsByTagName("head")[0].appendChild(headingScript);
         });
     })();
+
     </script>
     <?php
    }

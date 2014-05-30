@@ -31,6 +31,9 @@ Please note that the BoostSuite plug-in sends data about your website and its vi
 
 == Changelog ==
 
+= 1.2 =
+* updated JavaScript tracking logic
+
 = 1.1 =
 * updated plugin description
 
