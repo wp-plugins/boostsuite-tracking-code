@@ -3,7 +3,7 @@
    Plugin Name: BoostSuite Tracking
    Plugin URI: http://boostsuite.com
    Description: This plugin will insert the BoostSuite tracking code on all non-admin pages.
-   Version: 1.2
+   Version: 1.3
    Author: BoostSuite
    Author URI: http://boostsuite.com
    */
