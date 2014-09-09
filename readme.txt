@@ -1,8 +1,8 @@
 === BoostSuite Tracking Code ===
 Contributors: squidMark
 Requires at least: 1.2.1
-Tested up to: 3.4.2
-Stable tag: 1.2
+Tested up to: 4.0
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,9 @@ Please note that the BoostSuite plug-in sends data about your website and its vi
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Changelog ==
+
+= 1.3 =
+* updated 'tested up to' version to 4.0
 
 = 1.2 =
 * updated JavaScript tracking logic
